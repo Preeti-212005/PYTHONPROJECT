@@ -1,0 +1,155 @@
+                                                               PROJECT-1
+                                                               ----------
+
+1.Number Guessing Game
+---------------------
+
+Project Name: "Guess the Number"
+----------------------------------
+
+Description:-
+-------------
+
+Develop a simple manber guessing gume where the computer randomly selects a mumber, and the player tries to guess it within a limited manber of attempts.
+The game should provide hints to the player whether the guess is too high or too low. Start with a console-based version and optionally add a GUI.
+
+Features:-
+----------
+>Random Number Generation: Generate a random number within a specified range.
+>Player Input: Allow the player to input their guess via the console or a graphical input hox.
+>Hint System:- Provide feedback if the guest is too high, too low, or correct
+>Attempts Tracking: Limit the number of attempts and display the remaining attempts.
+>Optional GUI:- If desired, create a graphical interface wing Tkatter or PyQt for user input and feedback.
+
+Technologies Used:-
+-------------------
+
+->Python:- For core game logic and functionality.
+---------
+->Tkinter PyQt (Optional): For building a graphical user interface.
+--------------
+
+
+Learning Objectives:-
+----------------------
+>Learn to use Python for simple game development.
+>Understand random number generation and user input handling
+>Improve problem-solving skills and leam to provide feedback based on user input 
+
+
+
+                                           PROJECT-2
+                                          ------------
+
+
+2.To-Do List Application
+---------------------------
+
+Project Name: "Task Manager"
+-------------------------
+
+Description:-
+------------
+Create a to-do list application that allows users to add,edit,and delete task.
+The appilicatin should also allow user to mark tasks as complete  and save the task list to a file.
+Start with ha console-based version and optionally add a GUI.
+
+Features:-
+---------
+>Add, Edit t and Delete Tasks: Allow users to manage their tasks through the console.
+>Mark Tasks as Complete: Provide an option to mark tasks as done.
+>Task List Display. Show the current list of tasks, along with their stutus (complete or incomplete)
+>Data Persistence: Save the the task list to a file and load it on startup.
+>Optional GUI: If desired, provide a graphical interface for managing tasks using Tkinter or PyQt.
+
+Technologies Used:-
+-------------------
+->Python: For the core functionality and logic.
+--------
+->File Handling: To store and retrieve the task list.
+---------------
+->Tkinter/PyQt (Optional): For building a graphical interface.
+------------------------
+
+
+Learning Objectives:
+--------------------
+
+>Learn to build a simple task management application using Python.
+>Understand file handling for data persistence.
+>Gain experience in creating user interfaces and managing user input.
+
+
+
+                                         PROJECT-3
+                                        -----------
+
+
+3.Hangman Game
+--------------
+
+Project Name: "Hangman Challenge"
+-------------------------------
+
+Description:-
+------------
+Develop a classic Hangman game where the player has to guess a hidden word one letter at a time. The
+game should display the current state of the word and the number of incorrect guesses remaining. Start with
+a console-based version and optionally add a GUI.
+
+Features:-
+---------
+>Word Selection: Randomly select a word from a predefined list.
+> Player Input: Allow the player to input a letter guess via the console or GUI.
+> Game State Display: Show the current state of the word with correct guesses filled in and remaining blank spaces.
+> Incorrect Guess Tracking: Display the number of incorrect guesses remaining and the letters guessed so far.
+> Win/Loss Conditions: End the game when the player guesses the word or runs out of attempts.
+> Optional GUI: If desired, create a graphical interface using Tkinter or PyQt for user input and game display.
+
+
+Technologies Used:-
+-------------------
+->Python: For game logic and functionality.
+---------
+->Tkinter/PyQt (Optional): For building a graphical interface.
+-------------------------
+
+
+Learning Objectives:-
+---------------------
+> Learn to implement game logic and state management in Python.
+> Understand user input handling and how to provide interactive feedback.
+> Improve problem-solving and logical thinking by implementing win/loss conditions.
+
+
+                                                 PROJECT-4
+                                                ----------- 
+                                            
+
+
+4.Random Password Generator
+---------------------------
+
+Project Name: "Secure Password Generator"
+----------------------------------------
+
+Description:-
+-------------------
+Create a random password generator that allows users to generate secure passwords based on specifiedcriteria (e.g., length, inclusion of numbers, symbols, and uppercase letters). 
+Start with a console-based version and optionally add a GUI.
+
+Features:-
+-------------
+>Password Criteria Selection: Allow users to specify the desired length and character types (e.g., letters,numbers, symbols).
+> Random Password Generation: Generate a password based on the selected criteria.
+> Display Generated Password: Show the generated password to the user.
+>Copy to Clipboard: Provide an option to copy the generated password to the clipboard.
+> Optional GUI: If desired, create a graphical interface using Tkinter or PyQt for input and output.
+
+
+Technologies Used:-
+--------------------
+-> Python: For core functionality and password generation logic.
+----------
+-> Tkinter/PyQt (Optional): For building a graphical interface.
+---------------------------
